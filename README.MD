@@ -1,6 +1,6 @@
 # Node.js API with Express and TypeScript
 
-This project is a simple Node.js API built with Express and TypeScript. Below is an overview of the project structure, key features, and usage instructions.
+This project is a simple Node.js API built with Express and TypeScript, based on the layered architecture. Below is an overview of the project structure, key features, and usage instructions.
 
 ---
 
@@ -107,4 +107,4 @@ npm run build
 npm start
 ```
 
-This project provides a basic structure for building a RESTful API with Node.js, Express, and TypeScript.
+This project provides a basic structure for building a RESTful API with Node.js, Express, and TypeScript, following the principles of layered architecture.
